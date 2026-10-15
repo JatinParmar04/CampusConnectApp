@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.log
+audit*.json
+.nac-dev-store.json
+
+/generated/prisma
